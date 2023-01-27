@@ -11,7 +11,7 @@
    - `Euclidean`
 
 ## Built with
-- macOS Monterey 12.4 (M1)
+- macOS Ventura 13.2 (M1)
 - Python >= 3.9
 
 ## Library Installation
