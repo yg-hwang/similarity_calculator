@@ -163,7 +163,7 @@ class CosineSimilarity(SimilarityFunctions):
 
     def create_similarity_dict(
         self, top_n: Optional[int] = None, progressbar: bool = True
-    ) -> dict[Any, dict[Any, Any]]:
+    ) -> Dict[Any, Dict[Any, Any]]:
         """
         전체 document 코사인 유사도 계산
         """
