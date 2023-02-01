@@ -1,7 +1,5 @@
 # Simple Calculator of Similarity
 
----
-
 ## About The Project
 > 파이썬 Dictionary 기반의 유사도 계산 모듈
 
